@@ -1,3 +1,4 @@
-# -R-Shiny-project---Supermarket-sales-analysis
+# R-Shiny-project---Supermarket-sales-analysis
 ## Welcome to my R project - Creating sales dashboard with Shinydashboard 
-In this project, I will analyze supermarket sales data, and extract the marketing & sales insight from it, and deploy my finding by creating this interactive dashboard. If you found my dashboard interesting, don't hesistate to reach me out in <a href="https://www.linkedin.com/in/junjieyou/" target="_blank">Linkedin</a>.
+
+In this project, I will analyze supermarket sales data, extract marketing and sales insights, and present my findings through an interactive dashboard. If you find my dashboard interesting, please don't hesitate to reach out to me on 👉 <a href="https://www.linkedin.com/in/junjieyou/" target="_blank">Linkedin</a> 🤝:)
