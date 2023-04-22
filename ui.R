@@ -12,7 +12,7 @@ ui <- dashboardPage( skin = "purple",
   dashboardHeader(title = "Supermarket Data Analysis",
                   tags$li(class="dropdown",tags$a(href="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965&language=R", icon("database"), "Dataset", target="_blank")),
                   tags$li(class="dropdown",tags$a(href="https://www.linkedin.com/in/junjieyou/" ,icon("linkedin"), "My Profile", target="_blank")),
-                  tags$li(class="dropdown",tags$a(href="https://github.com/aagarw30/R-Shinyapp-Tutorial", icon("github"), "Source Code", target="_blank"))
+                  tags$li(class="dropdown",tags$a(href="https://github.com/Junjiecode/-R-Shiny-project---Supermarket-sales-analysis", icon("github"), "Source Code", target="_blank"))
                   ),
   dashboardSidebar(
     sidebarMenu(
